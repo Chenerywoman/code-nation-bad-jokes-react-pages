@@ -1,0 +1,15 @@
+.container.categories-ul{
+    display: flex;
+    border: 1px solid black;
+    margin: 1em 5em;
+
+}
+
+.categories-ul {
+    list-style: none;
+}
+
+.categories-ul li{
+    display: inline-block;
+    margin: 0.25em;
+}
